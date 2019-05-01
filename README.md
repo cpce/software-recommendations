@@ -41,9 +41,9 @@ Useful and suggested software solutions.
 - [John's Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - John’s Background Switcher puts beautiful full-screen photos and stunning montages on your desktop.
 
 ## Hardware
-- [CPU-Z]()
+- [CPU-Z](https://cpuid.com/softwares/cpu-z.html) - Freeware that gathers information on some of the main devices of your system.
 - [DisplayDriverUninstaller](https://www.wagnardsoft.com/) - Completely remove previous GPU drivers for a clean install of new drivers.
-- [Speccy]()
+- [Speccy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
 - [CrystalDiskInfo]()
 - [GPU-Z]()
 - [AIDA64]()
