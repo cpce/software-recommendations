@@ -2,41 +2,42 @@
 Useful and suggested software solutions. 
 
 ## Web Browsers 
-- [Chrome]() - Google's browser, one of the most popular.
-- [Firefox]() - Mozilla's browser, also one of the most popular.
-- [Midori]() - Super lightweight browser with minimal memory imprint.
-- [Opera]() - A browser with many nice graphical elements and features.
+- [Chrome](https://google.com/chrome) - Google's browser, one of the most popular.
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - Mozilla's browser, also one of the most popular.
+- [Midori](https://www.midori-browser.org/) - Super lightweight browser with minimal memory imprint.
+- [Opera](https://www.opera.com/) - A browser with many nice graphical elements and features.
 
 ## Photos and Graphics
-- [PhotoShop]() - Adobe's popular photo manipulation software.
-- [GIMP]() - Open source alternative to PhotoShop.
-- [InkScape]() - Open source vector graphics editor.
-- [Paint.NET](https://getpaint.net) - Free image editing software.
+- [PhotoShop](https://www.adobe.com/products/photoshop.html) - Adobe's popular photo manipulation software.
+- [GIMP](https://www.gimp.org/) - Open source alternative to PhotoShop.
+- [InkScape](https://inkscape.org/) - Open source vector graphics editor.
+- [Paint.NET](https://getpaint.net/) - Free image editing software.
 - [ImageResizer](https://www.bricelam.net/ImageResizer/) - Windows-based fast and simple image resizer.
 
 ## Gaming
 ### Platforms
-- [Steam](https://steampowered.com) - The most popular gaming store and DRM platform.
-- [Origin](https://origin.com) - EA's own game store and DRM platform.
-- [uPlay](https://uplay.com) - Ubisoft's own game store and DRM platform.
-- [GOG](https://gog.com) - GoodOldGames game store and DRM-free launcher.
+- [Steam](https://steampowered.com/) - The most popular gaming store and DRM platform.
+- [Origin](https://origin.com/) - EA's own game store and DRM platform.
+- [uPlay](https://uplay.com/) - Ubisoft's own game store and DRM platform.
+- [GOG](https://gog.com/) - GoodOldGames game store and DRM-free launcher.
 ### Connectivity
 - [Parsec](https://parsecgaming.com/) - Screen-sharing for couch co-op over an internet connection.
-- [ZeroTier]() - Private virtual LAN over an internet connection.
+- [ZeroTier](https://www.zerotier.com/) - Private virtual LAN over an internet connection.
 
 ## Software Updates
-- [PatchMyPC](https://patchmypc.com/home-updater-overview) - Download and update essential software.
+- [PatchMyPC](https://patchmypc.com/home-updater-overview/) - Download and update essential software.
 - [Ninite](https://ninite.com/) - Download and update essential software.
 - [Chocolatey](https://chocolatey.org/) - Download software via PowerShell.
+- [Scoop](https://scoop.sh/) - A command-line installer for Windows.
 
 ## Customization
-- [WinAero Tweaker](https://winaero.com) - Windows tweaking solution with a wide range of options.
-- [Chameleon](https://github.com/ianmartinez/Chameleon) - Wallpaper changer based on time/battery/weather events.
-- [MacType](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-- [Rainmeter]()
-- [RainWallpaper]()
-- [Sidebar Diagnostics]() - Windows solution for system info in a sidebar.
-- [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) - Previously known as ClassicShell, the goto Start Menu replacement.
+- [WinAero Tweaker](https://winaero.com/) - Windows tweaking solution with a wide range of options.
+- [Chameleon](https://github.com/ianmartinez/Chameleon/) - Wallpaper changer based on time/battery/weather events.
+- [MacType](https://github.com/snowie2000/mactype/) - Better font rendering for Windows.
+- [Rainmeter](https://www.rainmeter.net/) -Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
+- [RainWallpaper](https://rainysoft.cc/rainwallpaper.html) - RainWallpaper is a powerful customizable live wallpaper engine.
+- [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics/) - Windows solution for system info in a sidebar.
+- [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu/) - Previously known as ClassicShell, the goto Start Menu replacement.
 - [John's Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - John’s Background Switcher puts beautiful full-screen photos and stunning montages on your desktop.
 
 ## Hardware
