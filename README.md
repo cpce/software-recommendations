@@ -21,6 +21,7 @@ Useful and suggested software solutions.
 - [Origin](https://origin.com/) - EA's own game store and DRM platform.
 - [uPlay](https://uplay.com/) - Ubisoft's own game store and DRM platform.
 - [GOG](https://gog.com/) - GoodOldGames game store and DRM-free launcher.
+
 ### Connectivity
 - [Parsec](https://parsecgaming.com/) - Screen-sharing for couch co-op over an internet connection.
 - [ZeroTier](https://www.zerotier.com/) - Private virtual LAN over an internet connection.
@@ -81,6 +82,9 @@ Useful and suggested software solutions.
 - [NZBget](https://nzbget.net/) - Usenet downloader
 - [LittleWeeb](https://littleweeb.github.io/) - XDCC Anime Downloader
 
-
+## Troubleshooting
+- [Wireshark](https://www.wireshark.org/) - Packet capturing software. Can also be used to capture usb device data.
+- [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - A tool that can be used to scan a network for all avaliable IPs and avaliable device info.
+- [Autopsy](https://www.sleuthkit.org/autopsy/) - GUI utility for The Sleuth Kit digital forensics software package.
 
 ----
