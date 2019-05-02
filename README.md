@@ -49,8 +49,8 @@ Useful and suggested software solutions.
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Need to check your HDD/SSD stats? Look no further!
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - The CPU-Z of GPUs.
 - [AIDA64](https://www.aida64.com/) - Very powerful PC stress testing software.
-- [RadeonMod]()
-- [MSI Afterburner]()
+- [RadeonMod](https://guru3d.com/files-details/amd-registry-editor-download.html) - Registry editor for editing AMD GPU registry keys/values.
+- [MSI Afterburner](https://msi.com/page/afterburner) - MSI OC/Fan software for GPUs and system fans.
 - [OpenHardwareMonitor](https://openhardwaremonitor.org/) - FOSS PC system component monitoring
 
 ## Development
@@ -61,12 +61,12 @@ Useful and suggested software solutions.
 - [Discord](https://discordapp.com/) - Text and voice chat, made foremost for gamers.
 - [Slack](https://slack.com/) - Text, Voice, Video. Usually used by devs but free version is nice for small text chats.
 - [Teamspeak](https://www.teamspeak.com/en/) - Voice chat for gamers, can be hosted.
-- [Tox]() - Security and privacy oriented chat and video chat.
+- [Tox](https://tox.chat) - Security and privacy oriented chat and video chat.
 - [Messenger](https://messanger.com) - Facebook's own messaging solution.
 
 ## Security and Privacy
-- [SandBoxie]()
-- [Tor]()
+- [SandBoxie](https://sandboxie.com) - Isolates programs from your OS to prevent unwanted changes, etc.
+- [Tor](https://torproject.org) - Your gateway to browsing privately on the internet as well as the *dark web*.
 - [OpenVPN](https://openvpn.net/) - Flexible VPN solutions to secure your data communications. Free and paid solutions.
 - [Private Internet Access](https://privateinternetaccess.com) - Very good, no logging, VPN solution. Offers many different locations with fast connection speeds. P2P friendly.
 
