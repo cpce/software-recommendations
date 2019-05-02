@@ -87,4 +87,9 @@ Useful and suggested software solutions.
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - A tool that can be used to scan a network for all avaliable IPs and avaliable device info.
 - [Autopsy](https://www.sleuthkit.org/autopsy/) - GUI utility for The Sleuth Kit digital forensics software package.
 
+# Other Software Lists
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - Extensive homelab selfhosted software list
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Extensive software list for sysadmin tools
+- [awesome-php](https://github.com/ziadoz/awesome-php) - Extensive list for php software
+
 ----
