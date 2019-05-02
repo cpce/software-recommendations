@@ -6,6 +6,7 @@ Useful and suggested software solutions.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Mozilla's browser, also one of the most popular.
 - [Midori](https://www.midori-browser.org/) - Super lightweight browser with minimal memory imprint.
 - [Opera](https://www.opera.com/) - A browser with many nice graphical elements and features.
+- [Chromium Edge](https://www.microsoftedgeinsider.com/en-us/download/) - Microsoft's new chromium based Edge browser.
 
 ## Photos and Graphics
 - [PhotoShop](https://www.adobe.com/products/photoshop.html) - Adobe's popular photo manipulation software.
@@ -44,31 +45,31 @@ Useful and suggested software solutions.
 - [CPU-Z](https://cpuid.com/softwares/cpu-z.html) - Freeware that gathers information on some of the main devices of your system.
 - [DisplayDriverUninstaller](https://www.wagnardsoft.com/) - Completely remove previous GPU drivers for a clean install of new drivers.
 - [Speccy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
-- [CrystalDiskInfo]()
-- [GPU-Z]()
-- [AIDA64]()
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Need to check your HDD/SSD stats? Look no further!
+- [GPU-Z](https://www.techpowerup.com/gpuz/) - The CPU-Z of GPUs.
+- [AIDA64](https://www.aida64.com/) - Very powerful PC stress testing software.
 - [RadeonMod]()
 - [MSI Afterburner]()
-- [OpenHardwareMonitor]()
+- [OpenHardwareMonitor](https://openhardwaremonitor.org/) - FOSS PC system component monitoring
 
 ## Development
-- [Notepad++]() - Notepad on steroids. Supports tabs and split screen, syntax formatting, and more.
-- [Visual Studio Code]() - Microsoft's code editing solution. Very powerful and robust features. 
+- [Notepad++](https://notepad-plus-plus.org/) - Notepad on steroids. Supports tabs and split screen, syntax formatting, and more.
+- [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free code editing solution. Very powerful, robust features, and very extensible.
 
 ## Communication 
-- [Discord]() - Text and voice chat, made foremost for gamers.
+- [Discord](https://discordapp.com/) - Text and voice chat, made foremost for gamers.
 - [Slack](https://slack.com/) - Text, Voice, Video. Usually used by devs but free version is nice for small text chats.
-- [Teamspeak]() - Voice chat for gamers, can be hosted.
+- [Teamspeak](https://www.teamspeak.com/en/) - Voice chat for gamers, can be hosted.
 - [Tox]() - Security and privacy oriented chat and video chat.
-- [Messenger]() - Facebook's own messaging solution.
+- [Messenger](https://messanger.com) - Facebook's own messaging solution.
 
 ## Security and Privacy
 - [SandBoxie]()
 - [Tor]()
-- [OpenVPN]()
+- [OpenVPN](https://openvpn.net/) - Flexible VPN solutions to secure your data communications. Free and paid solutions.
+- [Private Internet Access](https://privateinternetaccess.com) - Very good, no logging, VPN solution. Offers many different locations with fast connection speeds. P2P friendly.
 
 ## Media Management
-> *This section will get moved in the future when a proper post detailing how to use these is setup in the guides section. Will most likely involve [docker](https://www.docker.com/).*
 - [Sonarr](https://sonarr.tv/) - Automated TV Show grab/rename/moving
 - [Radarr](https://radarr.video/) - Automated Movie grab/rename/moving
 - [Lidarr](https://lidarr.audio/) - Automated Music grab/rename/moving
