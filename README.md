@@ -88,8 +88,10 @@ Useful and suggested software solutions.
 - [Autopsy](https://www.sleuthkit.org/autopsy/) - GUI utility for The Sleuth Kit digital forensics software package.
 
 # Other Software Lists
+> This section may become a unique repo of lists, but we may just refer to [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - Extensive homelab selfhosted software list
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Extensive software list for sysadmin tools
 - [awesome-php](https://github.com/ziadoz/awesome-php) - Extensive list for php software
-
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - List of Docker resources and containers.
 ----
