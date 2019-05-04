@@ -74,8 +74,10 @@ Useful and suggested software solutions.
 - [Sonarr](https://sonarr.tv/) - Automated TV Show grab/rename/moving
 - [Radarr](https://radarr.video/) - Automated Movie grab/rename/moving
 - [Lidarr](https://lidarr.audio/) - Automated Music grab/rename/moving
+- [Mylar](https://github.com/evilhero/mylar) - Automated Comic grab/rename/moving
 - [Jackett](https://github.com/Jackett/Jackett) - Interfaces Radarr/Sonarr/Lidarr/Bazarr with TPB etc.
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Subtitle handling for Sonarr/Radarr
+- [Ubooquity](https://vaemendis.net/ubooquity/) - Comic and eBook server
 - [Plex](https://plex.tv) - Media server
 - [Ombi](https://ombi.io/) - Media request handling
 - [Tautulli](https://tautulli.com/) - Plex server telemetry, etc.
