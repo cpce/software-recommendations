@@ -73,6 +73,9 @@ Useful and suggested software solutions.
 - [OpenVPN](https://openvpn.net/) - Flexible VPN solutions to secure your data communications. Free and paid solutions.
 - [Private Internet Access](https://privateinternetaccess.com) - Very good, no logging, VPN solution. Offers many different locations with fast connection speeds. P2P friendly.
 
+## System Maintenance
+- [TronScript](https://www.reddit.com/r/TronScript/) - Tron is a glorified collection of batch files that automate the process of cleaning up Windows systems.
+
 ## Media Management
 - [Sonarr](https://sonarr.tv/) - Automated TV Show grab/rename/moving
 - [Radarr](https://radarr.video/) - Automated Movie grab/rename/moving
