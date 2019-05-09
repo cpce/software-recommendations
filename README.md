@@ -1,6 +1,9 @@
 # Software Recommendations
 Useful and suggested software solutions. 
 
+## File Management
+- [rClone](https://rclone.org/downloads/) - Rclone is a command line program to sync files and directories.
+
 ## Web Browsers 
 - [Chrome](https://google.com/chrome) - Google's browser, one of the most popular.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Mozilla's browser, also one of the most popular.
